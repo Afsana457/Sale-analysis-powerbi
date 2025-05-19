@@ -1,4 +1,4 @@
-# Sale-analysis-powerbi
+# Sales-analysis-powerbi
 Power BI dashboard project using superstore sales dataset
 # 📈 Sale Analysis Dashboard (Power BI)
 
